@@ -1,0 +1,28 @@
+body {
+	background: url(picture4.jpg);
+	background-position: center;
+	height: 500px;
+	background-size: cover;
+	color: black;
+}
+
+h2 {
+	font-size: 60px;
+	text-align: center;
+	border: 5px solid black;
+	background: rgba(000, 000, 000, 0.3);
+	margin-top: 0px;
+	color: white;
+}
+
+p {
+	background: rgba(000, 000, 000, 0.3);
+	border: 3px solid white;
+	height: 500px;
+	color: white;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}

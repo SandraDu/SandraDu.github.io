@@ -1,0 +1,27 @@
+body {
+	background: url(picture3.jpg);
+	background-position: center;
+	height: 800px;
+	background-size: cover;
+	color: white;
+}
+
+h2 {
+	font-size: 60px;
+	text-align: center;
+	border: 5px solid white;
+	background: rgba(000, 000, 000, 0.5);
+	margin-top: 0px;
+}
+
+p {
+	background: rgba(000, 000, 000, 0.5);
+	border: 3px solid white;
+	height: 600px;
+	color: white;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
